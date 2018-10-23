@@ -1,0 +1,88 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+	
+.container {
+	width: 428;
+	height: auto;
+}
+
+.mid {
+	background-image: url(images/box_mid.png);
+	width: 428px;
+	height: px;
+}
+
+.bot {
+	background-image: url(images/box_bot.png);
+	width: 425px;
+	height: 6px;
+}
+
+.header_ansatt {
+	background-image: url(images/header_ansatt.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_diskusjon {
+	background-image: url(images/header_diskusjon.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_forslag {
+	background-image: url(images/header_forslag.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_fortelling {
+	background-image: url(images/header_fotelling.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_gaate {
+	background-image: url(images/header_gaate.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_habbo {
+	background-image: url(images/header_habbo.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_moro {
+	background-image: url(images/header_moro.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_motto {
+	background-image: url(images/header_moro.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_vits {
+	background-image: url(images/header_vits.png);
+	width: 425px;
+	height: 22px;
+}
+
+.spacer {
+	background-image: url(images/spacer.png);
+	width: 425px;
+	height: 13px;
+}

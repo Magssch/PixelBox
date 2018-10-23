@@ -1,0 +1,447 @@
+
+   body {
+  background-image:url(images/wuaxbg.png);
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10px;
+  color: #000;
+  margin-top: -15px;
+  margin-bottom: -15px;
+  }
+  
+  #main {
+  width: 996px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  }
+
+   #header {
+  background-image:url(images/header.png);
+  width: 1086px;
+  height: 142px;
+  }
+  
+   #container {
+  background-image:url(images/container.png);
+  width: 1086px;
+  height: 1014px;
+  }
+  
+  #hovedside {
+  width: 89px;
+  height: 24px;
+  margin-left: 46px;
+  margin-top: -1033px;
+  }
+     
+  #anmld {
+  width: 90px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 134px;
+  }
+  
+  #wuaxm {
+  width: 111px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 226px;
+  }
+  
+  #fanc {
+  width: 84px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 336px;
+  }
+  
+  #wuax {
+  width: 52px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 419px;
+  }
+
+  
+  #hinfo {
+  width: 81px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 470px;
+  }
+  
+  #mlp {
+  width: 93px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 550px;
+  }
+  
+  #tagw {
+  width: 66px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 642px;
+  }
+  
+   #meny {
+  background-image:url(images/menuhead.png);
+  width: 660px;
+  height: 26px;
+  margin-left: 46px;
+  }
+  
+   #mellom {
+  background-image:url(images/bluehead.png);
+  width: 22px;
+  height: 26px;
+  margin-top: -26px;
+  margin-left: 707px;
+  }
+  
+  #hot_head {
+  background-image:url(images/hothead.png);
+  width: 312px;
+  height: 62px;
+  margin-top: -62px;
+  margin-left: 728px;
+  }
+
+ #reglogtop {
+  width: 206px;
+  height: 80px;
+  margin-left: 46px;
+  }
+  
+  #reg {
+  width: 119px;
+  height: 25px;
+  margin-left: 46px;
+  margin-top: -125px;
+  }
+  
+  #log {
+  width: 86px;
+  height: 25px;
+  margin-left: 165px;
+  margin-top: -25px;
+  }
+  
+  #userinfo {
+  background-image:url(images/logbg.png);
+  width: 206px;
+  height: 125px;
+  margin-left: 46px;
+  }
+  
+  #hotpic {
+  background-color:#999;
+  width: 473px;
+  height: 205px;
+  margin-top: -105px;
+  margin-left: 252px;
+  }
+  
+  #hotline {
+  background-image:url(images/hotlineicon.png);
+  width: 315px;
+  height: 205px;
+  margin-left: 725px;
+  margin-top: -205px;
+  }
+  
+  #hotline1 {
+  background-image:url(images/hotlineicon.png);
+  width: 315px;
+  height: 34px;
+  font-size: 11px;
+  font-weight: bold;
+  }
+  
+  #hotline2 {
+  background-image:url(images/hotlineicon.png);
+  width: 315px;
+  height: 34px;
+  font-size: 11px;
+  font-weight: bold;
+  }
+  
+  #hotline3 {
+  background-image:url(images/hotlineicon.png);
+  width: 315px;
+  height: 34px;
+  font-size: 11px;
+  font-weight: bold;
+  }
+  
+  #hotline4 {
+  background-image:url(images/hotlineicon.png);
+  width: 315px;
+  height: 34px;
+  font-size: 11px;
+  font-weight: bold;
+  }
+  
+  #hotline5 {
+  background-image:url(images/hotlineicon.png);
+  width: 315px;
+  height: 34px;
+  font-size: 11px;
+  font-weight: bold;
+  }
+  
+  #mskill {
+  background-image:url(images/frontbghead.png);
+  width: 994px;
+  height: 26px;
+  margin-left: 46px;
+  }
+  
+  #aboxhead {
+  background-image:url(images/avstemningb.png);
+  width: 205px;
+  height: 22px;
+  margin-left: 46px;
+  }
+  
+  #aboxmid {
+  background-image:url(images/lboxmid.png);
+  width: 205px;
+  height: 150px;
+  margin-left: 46px;
+  }
+  
+  #nboxhead {
+  background-image:url(images/nodanropb.png);
+  width: 205px;
+  height: 22px;
+  margin-left: 46px;
+  }
+  
+  #nboxmid {
+  width: 203px;
+  margin-left: 46px;
+  margin-bottom: -2px;
+  }
+  
+  #anboxhead {
+  background-image:url(images/annonserb.png);
+  width: 205px;
+  height: 22px;
+  margin-left: 46px;
+  }
+  
+  #anboxmid {
+  background-image:url(images/lboxmid.png);
+  width: 205px;
+  height: 405px;
+  margin-left: 46px;
+  }
+  
+  #nybox_head {
+  background-image:url(images/fronthead.png);
+  width: 526px;
+  height: 22px;
+  margin-top: -748px;
+  margin-left: 262px;
+  }
+  
+  #omwuax {
+  width: 510px;
+  height: 490px;
+  margin-left: 7px;
+  }
+  
+  #nybox_mid {
+  background-image:url(images/frontmid.png);
+  width: 526px;
+  height: 490px;
+  margin-left: 262px;
+  }
+
+  #nybox_bot {
+  background-image:url(images/frontbot.png);
+  width: 526px;
+  height: 7px;
+  margin-left: 262px;
+  margin-bottom: 10px;
+  }
+  
+  #nybox1_head {
+  background-image:url(images/tagrsheader.png);
+  width: 526px;
+  height: 9px;
+  margin-left: 262px;
+  }
+  
+  #nybox1_mid {
+  background-image:url(images/frontmid.png);
+  width: 526px;
+  height: 90px;
+  margin-left: 262px;
+  }
+
+  #nybox1_bot {
+  background-image:url(images/frontbot.png);
+  width: 526px;
+  height: 7px;
+  margin-left: 262px;
+  margin-bottom: 10px;
+  }
+  
+  #nybox2_head {
+  background-image:url(images/tagrsheader.png);
+  width: 526px;
+  height: 9px;
+  margin-left: 262px;
+  }
+  
+  #nybox2_mid {
+  background-image:url(images/frontmid.png);
+  width: 526px;
+  height: 60px;
+  margin-left: 262px;
+  }
+
+  #nybox2_bot {
+  background-image:url(images/frontbot.png);
+  width: 526px;
+  height: 7px;
+  margin-left: 262px;
+  margin-bottom: 10px;
+  }
+  
+  #verdi {
+  background-image:url(images/verdi.png);
+  width: 242px;
+  height: 22px;
+  margin-left: 798px;
+  margin-top: -529px;
+  }
+  
+  #verdi1 {
+  background-image:url(images/verdiline.png);
+  width: 242px;
+  height: 43px;
+  }
+  
+  #verdi2 {
+  background-image:url(images/verdiline.png);
+  width: 242px;
+  height: 43px;
+  }
+  
+  #verdi3 {
+  background-image:url(images/verdiline.png);
+  width: 242px;
+  height: 43px;
+  }
+  
+  #verdi4 {
+  background-image:url(images/verdiline.png);
+  width: 242px;
+  height: 43px;
+  }
+  
+  #hbox {
+  background-image:url(images/boxmid.png);
+  width: 242px;
+  margin-left: 798px;
+  }
+  
+  #mag {
+  background-image:url(images/magzn.png);
+  width: 242px;
+  height: 22px;
+  margin-left: 798px;
+  }
+  
+  #hbox2 {
+  background-image:url(images/boxmid.png);
+  width: 242px;
+  height: 250px;
+  margin-left: 798px;
+  }
+  
+  #magasin {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10px;
+  width: 222px;
+  height: 220px;
+  margin-top: -240px;
+  margin-left: 808px;
+  }
+  
+  #anmd {
+  background-image:url(images/anmld.png);
+  width: 242px;
+  height: 22px;
+  margin-left: 798px;
+  }
+  
+  #hbox3 {
+  background-image:url(images/boxmid.png);
+  width: 242px;
+  height: 258px;
+  margin-left: 798px;
+  }
+  
+  #anmd1 {
+  background-image:url(images/verdiline.png);
+  width: 242px;
+  height: 43px;
+  }
+  
+  #anmd2 {
+  background-image:url(images/verdiline.png);
+  width: 242px;
+  height: 43px;
+  }
+  
+  #anmd3 {
+  background-image:url(images/verdiline.png);
+  width: 242px;
+  height: 43px;
+  }
+  
+  #anmd4 {
+  background-image:url(images/verdiline.png);
+  width: 242px;
+  height: 43px;
+  }
+  
+  #anmd5 {
+  background-image:url(images/verdiline.png);
+  width: 242px;
+  height: 43px;
+  }
+  
+  #anmd6 {
+  background-image:url(images/verdiline.png);
+  width: 242px;
+  height: 43px;
+  }
+  
+  #mskill2 {
+  background-image:url(images/bluehead.png);
+  width: 994px;
+  height: 26px;
+  margin-left: 46px;
+  }
+    
+  #footertxt {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10px;
+  color: #FFF;
+  width: 650px;
+  height: 21px;
+  margin-top: -21px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  
+  #footer {
+  background-image:url(images/footer.png);
+  width: 1086px;
+  height: 51px;
+  }

@@ -1,0 +1,23 @@
+body {
+  background-color: #ffffff;
+}
+#container {
+  width: 380px;
+  
+  font-family: Verdana;
+  font-size: 11px;
+  font-weight: normal;
+  color: #000000;
+}
+#top {
+  background: url('images/header.gif');
+  height: 11px;
+}
+#mid {
+  background: url('images/container.gif');
+}
+#bot {
+  background: url('images/footer.gif');
+  height: 13px;
+}
+  

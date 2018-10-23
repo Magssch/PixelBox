@@ -1,0 +1,2 @@
+
+<applet id='ProjectApplet' style='display:block' code='ScratchApplet' codebase='http://scratch.mit.edu/static/misc' archive='ScratchApplet.jar' height='387' width='482'><param name='project' value='../../static/projects/Kr1ss/742591.sb'></applet> <a href='http://scratch.mit.edu/projects/Kr1ss/742591'>

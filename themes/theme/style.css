@@ -1,0 +1,646 @@
+   A: { 
+  text-decoration: underline; 
+  color:#000000;
+} 
+   A:link { 
+  text-decoration: underline; 
+  color:#242424;
+} 
+  A:visited { 
+  text-decoration: underline; 
+  color:#171717;
+}
+  A:hover { 
+text-decoration: none;
+color:#1874CD;
+/*
+color:#FFA500;
+*/
+}
+a:active {
+text-decoration: none;
+color:#1874CD;
+/*
+color:#FFA500;
+*/
+}
+  /*
+#topbar {
+position:absolute;
+border: 1px solid #000000;
+color: #000;
+padding: 2px;
+background-color: #FFFF66;
+width: 300px;
+visibility: hidden;
+z-index: 100;
+}
+*/
+
+#dhtmltooltip{
+position: absolute;
+border: grey solid 1px;
+padding: 2px;
+background-color: white;
+visibility: hidden;
+z-index: 100;
+
+}
+
+#topbar {
+position:absolute;
+visibility: hidden;
+z-index: 100;
+}
+
+.messagetop {
+background-image: url('img/messagetop.png');
+width:350px;
+height:4px;
+}
+
+.messagebot {
+background-image: url('img/messagebot.png');
+width:350px;
+height:4px;
+}
+
+
+.messagemid {
+background-image: url('img/messagemid.png');
+width:350px;
+height:auto;
+
+}
+
+.menutitle{
+cursor:pointer;
+margin-bottom: 5px;
+background-color:#FFF68F;
+color:#000000;
+width:450px;
+padding:2px;
+margin-top:10px;
+margin-bottom:10px;
+text-align:center;
+font-weight:bold;
+/*/*/border:1px solid #000000;/* */
+}
+
+.submenu{
+margin-bottom: 0.5em;
+border:1px solid #000000;
+}
+
+.drag{
+position:relative;
+cursor:pointer;
+z-index: 100;
+}
+
+
+.container {
+  background:           url('img/container.png');
+  height:               auto;
+  top:                  0;
+  bottom:               0;
+  margin:               0 auto 0 auto;
+  padding-left:         46px;
+  padding-right:        46px;
+  width:                994px;
+}
+
+
+.containerf {
+  background:           url('img/container.png');
+  height:               900px;
+  top:                  0;
+  bottom:               0;
+  margin:               0 auto 0 auto;
+  padding-left:         46px;
+  padding-right:        46px;
+  width:                994px;
+}
+
+  .sistenytt {
+  width: 316px;
+  margin-top:41px;
+  margin-left:2px;
+  }
+
+.header {
+  background:           url('img/header.png');
+  margin:               0;
+  width:                994px;
+  height:               142px;
+}
+
+.menu_head {
+  background:           url('img/bluehead.png');
+  width:                984px;
+  height:               17px;
+  padding-top:          9px;
+  padding-left:         10px;
+  color:                #FFFFFF;
+}
+
+.menu_head a {
+  color:                #FFFFFF;
+  text-decoration:      none;
+}
+
+.menu_head a:link {
+  color:                #FFFFFF;
+  text-decoration:      none;
+}
+
+.menu_head a:visited {
+  color:                #FFFFFF;
+  text-decoration:      none;
+}
+
+.menu_head a:hover {
+  color:                #FFFFFF;
+  text-decoration:      underline;
+}
+
+.menu_head a:active {
+  color:                #FFFFFF;
+}
+
+.menu {
+  height:               24px;
+  float:                left;
+  margin-top:           122px;
+  margin-left:          1px;
+}
+
+.menu_button {
+  position:             relative;
+  margin-left:          -1px;
+}
+
+.hot_head {
+  background:           url('img/hothead.png');
+  height:               62px;
+  width:                316px;
+  float:                right;
+  margin-top:           106px;
+}
+
+.top_left {
+  border-right:         2px solid #999999;
+  float:                left;
+  width:                204px;
+  height:               205px;
+  border-left:          1px;
+}
+
+.top_right {
+  border-left:          2px solid #999999;
+  float:                left;
+  width:                315px;
+}
+
+.top_left_btn {
+  position:             relative;
+  margin-left:          -1px;
+}
+
+.forum_teaser {
+  background:           url('img/forumlog.png');
+  height:               78px;
+  width:                204px;
+  cursor:               pointer;
+}
+
+.log_list {
+  background:           url('img/logbg.png');
+  height:               11px;
+  width:                189px;
+  padding:              7px;
+  border-left: solid #CACACA 1px;
+  border-right: solid #CACACA 1px;
+  cursor:               pointer;
+}
+
+.hotline_icon2 {
+  background:           url('img/hotlineicon.png');
+  height:               29px;
+  width:                275px;
+  padding-left:         40px;
+  padding-top:          5px;
+  cursor:     pointer;
+  
+}
+
+.hotline_icon {
+  background:           url('img/hotlineicon.png');
+  height:               29px;
+  width:                308px;
+  padding-left:         7px;
+  padding-top:          5px;
+  cursor:     pointer;
+  
+}
+
+#fadeshow1 {
+  float:                left;
+}
+
+.middle_bar {
+  background:           url('img/frontbghead.png');
+  height:               3px;
+  width:                994px;
+  margin-top:           205px;
+}
+
+.bottom_bar {
+  background:           url('img/bluehead.png');
+  height:               19px;
+  width:                984px;
+  color:                #FFFFFF;
+  padding-top:          7px;
+  padding-left:         10px;
+}
+
+.body_left {
+  width:                205px;
+  height:               auto;
+  float:                left;
+}
+
+.body_center {
+  width:                526px;
+  height:               auto;
+  float:                left;
+  margin-left:          11px;
+}
+
+.body_centerf {
+  width:                526px;
+  height:               200px;
+  float:                left;
+  margin-left:          11px;
+}
+
+.body_right {
+  width:                205px;
+  height:               auto;
+  float:                left;
+  margin-left:          10px;
+}
+
+
+.lboxtop {
+  height:               22px;
+  width:                205px;
+}
+
+.lboxmid {
+  background:           url('img/lboxmid.png');
+  width:                195px;
+  height:               auto;
+  padding:              5px;
+}
+
+.ladmid {
+  width:                195px;
+  height:               127px;
+}
+
+.rboxtop {
+  height:               22px;
+  width:                242px;
+}
+
+.rboxmid {
+  background:           url('img/boxmid.png');
+  width:                232px;
+  height:               auto;
+  padding:              5px;
+}
+
+.bboxtop {
+  height:               22px;
+  width:                526px;
+}
+
+
+.forumtop {
+  height:               22px;
+  width:                970px;
+}
+
+.forummid {
+  background:           url('img/forummid.png');
+  height:               auto;
+  width:                960px;
+  padding:              5px;
+}
+
+.forumbot {
+  background:           url('img/forumbot.png');
+  height:               7px;
+  width:                970px;
+}
+
+.bboxtop_nohdr {
+  background:           url('img/tagrsheader.png');
+  height:               9px;
+  width:                526px;
+}
+
+.bboxmid {
+  background:           url('img/frontmid.png');
+  height:               auto;
+  width:                516px;
+  padding:              5px;
+}
+
+.bboxbot {
+  background:           url('img/frontbot.png');
+  height:               7px;
+  width:                526px;
+}
+/*
+.verdiline {
+  background:           url('img/verdiline.png');
+  height:               35px;
+  width:                187px;
+  padding-left:         50px;
+  padding-top:          7px;
+  padding-right:        5px;
+  cursor:     pointer;
+}
+*/
+
+.verdiline {
+  background:           url('img/verdiline.png');
+  height:               36px;
+  width:                237px;
+  padding-left:         0px;
+  padding-top:          7px;
+  padding-right:        5px;
+  cursor:     pointer;
+}
+
+.furniline {
+  background:           url('img/verdiline.png');
+  height:               40px;
+  width:                228px;
+  padding-left:         9px;
+  padding-top:          3px;
+  padding-right:        5px;
+  cursor:     pointer;
+}
+
+.footer {
+  background:           url('img/footer.png');
+  height:               51px;
+  width:                994px;
+}
+
+
+#box_top_green_user {
+  background: url(images/box_header_green_user.png);
+  width: 217px;
+  height: 34px;
+  font-size: 11px;
+  font-weight: bold;
+  color: white;
+
+}
+
+#td {
+font-family: Verdana; 
+font-size: 10px; 
+font-weight: normal; 
+color: #000000;
+}
+
+td {
+font-family: Verdana; 
+font-size: 10px; 
+font-weight: normal; 
+color: #000000;
+}
+
+hr {
+background: 000# solid 1px;
+}
+
+
+.truebg {
+background: #90EE90;
+width: 99%;
+padding: 1px;
+border: 2px solid #32CD32;
+}
+
+.noticebg {
+background: #EFD300;
+width: 99%;
+padding: 1px;
+border: 2px solid #C4B300;
+}
+
+.falsebg {
+background: #FF6A6A;
+width: 99%;
+padding: 1px;
+border: 2px solid #EE2C2C;
+}
+
+#tagtop {
+  background: url(img/tag_top.png);
+  height: 7px;
+}
+
+#tagmid {
+  background: url(img/tag_mid.png);
+}
+
+#tagbot {
+  background: url(img/tag_bot.png);
+  height: 7px;
+}
+
+
+
+#tagtopb {
+  background: url(img/tag_topb.png);
+  height: 7px;
+}
+
+#tagmidb {
+  background: url(img/tag_midb.png);
+}
+
+#tagbotb {
+  background: url(img/tag_botb.png);
+  height: 7px;
+}
+
+#tagtopg {
+  background: url(img/tag_topg.png);
+  height: 7px;
+}
+
+#tagmidg {
+  background: url(img/tag_midg.png);
+}
+
+#tagbotg {
+  background: url(img/tag_botg.png);
+  height: 7px;
+}
+
+#tagcontainer {
+ text-align: left;
+ padding: 10px;
+ width: 436px;
+}
+
+#tagcontainer2 {
+ text-align: center;
+ padding: 4px;
+ width: 436px;
+}
+
+#button {
+border: 1px solid #999;
+color : #000;
+/*
+background: #f1f1f1;
+*/
+cursor: pointer;
+background: url('../../images/buttons/button_bg.png');
+font-family: Verdana;
+}
+
+#button:hover {
+border: 1px solid #999;
+color : #000;
+/*
+background: #f1f1f1;
+*/
+cursor: pointer;
+
+font-family: Verdana;
+}
+
+
+input, textarea, select {
+border: 1px solid #999;
+color : #000;
+font-size: 12px;
+background-color : #FFF;
+font-family: Verdana;
+}
+
+#text{
+margin-left: 11px;
+margin-right: 11px;
+}
+
+#mtext{
+margin-left: 5px;
+margin-right: 5px;
+}
+
+
+#freetext{
+margin-left: 15px;
+margin-right: 11px;
+}
+
+.nou a:link, .nou a:visited, .nou a:active,  .nou a:hover {
+	text-decoration: none;
+}
+
+#quote{
+    background-color: #ceceba;
+    border: 1px solid #000000;
+    margin: 3px 3px 10px;
+    padding: 5px;
+
+}
+
+
+.magtext{
+margin-left: 5px;
+margin-right: 5px;
+}
+
+.mid {
+	background-image: url(magazine/images/box_mid.png);
+	width: 425px;
+        text-align: left;
+}
+
+.bot {
+	background-image: url(magazine/images/box_bot.png);
+	width: 425px;
+	height: 6px;
+}
+
+.header_ansatt {
+	background-image: url(magazine/images/header_ansatt.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_diskusjon {
+	background-image: url(magazine/images/header_diskusjon.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_forslag {
+	background-image: url(magazine/images/header_forslag.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_fortelling {
+	background-image: url(magazine/images/header_fotelling.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_gaate {
+	background-image: url(magazine/images/header_gaate.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_habbo {
+	background-image: url(magazine/images/header_habbo.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_moro {
+	background-image: url(magazine/images/header_moro.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_motto {
+	background-image: url(magazine/images/header_motto.png);
+	width: 425px;
+	height: 22px;
+}
+
+.header_vits {
+	background-image: url(magazine/images/header_vits.png);
+	width: 425px;
+	height: 22px;
+}
+
+.spacer {
+	background-image: url(magazine/images/spacer.png);
+	width: 425px;
+	height: 13px;
+}

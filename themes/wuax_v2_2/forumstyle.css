@@ -1,0 +1,247 @@
+
+  body {
+  background-image:url(images/email_bg.gif);
+  background-color: #FFF;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10px;
+  color: #000;
+  margin-left: 15%;
+  margin-top: -5px;
+  }
+
+  #header {
+  background-image:url(images/header.png);
+  width: 995px;
+  height: 142px;
+  margin-bottom: 25px;
+  }
+
+  #hovedside {
+  background-image:url(images/);
+  width: 89px;
+  height: 24px;
+  margin-top: -50px;
+  }
+     
+  #anmld {
+  background-image:url(images/);
+  width: 90px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 88px;
+  }
+  
+  #wuaxm {
+  background-image:url(images/);
+  width: 111px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 178px;
+  }
+  
+  #fanc {
+  background-image:url(images/);
+  width: 84px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 288px;
+  }
+  
+  #wuax {
+  background-image:url(images/);
+  width: 52px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 371px;
+  }
+
+  
+  #hinfo {
+  background-image:url(images/);
+  width: 81px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 422px;
+  }
+  
+  #mlp {
+  background-image:url(images/);
+  width: 93px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 502px;
+  }
+  
+  #tagw {
+  background-image:url(images/);
+  width: 66px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 593px;
+  }
+
+  #menu {
+  background-image:url(images/menuhead.png);
+  width: 658px;
+  height: 26px;
+  margin-top: -26px;
+  }
+  
+  #mellom {
+  background-image:url(images/bluehead.png);
+  width: 21px;
+  height: 26px;
+  margin-top:px;
+  margin-left: 658px;
+  }
+    
+  #hot_head {
+  background-image:url(images/hothead.png);
+  width: 316px;
+  height: 62px;
+  margin-top: -62px;
+  margin-left: 679px;
+  }
+
+  #sistenytt {
+  width: 316px;
+  margin-top: -22px;
+  margin-left: 678px;
+  margin-bottom: 2px;
+  }
+  
+  #reglogtop {
+  width: 206px;
+  height: 80px;
+  }
+  
+  #reg {
+  background-image:url(images/);
+  width: 119px;
+  height: 25px;
+  margin-left: 1px;
+  margin-top: -125px;
+  }
+  
+  #log {
+  background-image:url(images/);
+  width: 86px;
+  height: 25px;
+  margin-left: 119px;
+  margin-top: -25px;
+  }
+  
+  #userinfo {
+  background-image:url(images/logbg.png);
+  width: 206px;
+  height: 125px;
+  margin-top: -px;
+  }
+  
+  #hotpic {
+  background-color:#999;
+  width: 475px;
+  height: 205px;
+  margin-top: -105px;
+  margin-left: 206px;
+  }
+  
+  #hotline {
+  background-image:url(images/hotlineicon.png);
+  width: 315px;
+  height: 205px;
+  margin-left: 680px;
+  margin-top: -205px;
+  }
+  
+  #hotline1 {
+  background-image:url(images/hotlineicon.png);
+  width: 315px;
+  height: 34px;
+  font-size: 11px;
+  font-weight: bold;
+  }
+  
+  #hotline2 {
+  background-image:url(images/hotlineicon.png);
+  width: 315px;
+  height: 34px;
+  font-size: 11px;
+  font-weight: bold;
+  }
+  
+  #hotline3 {
+  background-image:url(images/hotlineicon.png);
+  width: 315px;
+  height: 34px;
+  font-size: 11px;
+  font-weight: bold;
+  }
+  
+  #hotline4 {
+  background-image:url(images/hotlineicon.png);
+  width: 315px;
+  height: 34px;
+  font-size: 11px;
+  font-weight: bold;
+  }
+  
+  #hotline5 {
+  background-image:url(images/hotlineicon.png);
+  width: 315px;
+  height: 34px;
+  font-size: 11px;
+  font-weight: bold;
+  }
+  
+  #midt {
+  background-image:url(images/bluehead.png);
+  width: 995px;
+  height: 26px;
+  }
+  
+  #frontbg {
+  background-image:url(images/frontbg.png);
+  width: 995px;
+  height: 707px;
+  }
+  
+  #nybox_head {
+  background-image:url(images/forumhead.png);
+  width: 970px;
+  height: 22px;
+  margin-left: 12px;
+  margin-top: -695px;
+  margin-bottom: 681px;
+  }
+  
+  #nybox_mid {
+  background-image:url(images/forummid.png);
+  width: 970px;
+  height: 630px;
+  margin-left: 12px;
+  margin-top: -681px;
+  margin-bottom: 500px;
+  }
+  
+  #nybox_bot {
+  background-image:url(images/forumbot.png);
+  width: 970px;
+  height: 7px;
+  margin-left: 12px;
+  margin-top: -500px;
+  margin-bottom: 35px;
+  }
+  
+   #footertxt {
+  color:#FFF;
+  width: 995px;
+  height: 20px;
+  margin-bottom: -27px;
+  }
+  
+  #footer {
+  background-image:url(images/bluehead.png);
+  height: 26px;
+  width: 995px;
+  }

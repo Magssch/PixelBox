@@ -1,0 +1,36 @@
+<?php
+$lang['1'] = "Bilde url";
+$lang['2'] = "Habboen fins ikke";
+$lang['3'] = "Habbonavn";
+$lang['4'] = "Land";
+$lang['5'] = "Kroppsretning";
+$lang['6'] = "Hoderetning";
+$lang['7'] = "Grimase";
+$lang['8'] = "Normal";
+$lang['9'] = "Smil";
+$lang['10'] = "Trist";
+$lang['11'] = "Sint";
+$lang['12'] = "Snakk";
+$lang['13'] = "Forbaused";
+$lang['14'] = "G&#229;";
+$lang['15'] = "Sitt";
+$lang['16'] = "Vink";
+$lang['17'] = "Ligg ned";
+$lang['18'] = "St&#248;rrelse";
+$lang['19'] = "Stor";
+$lang['20'] = "Liten";
+$lang['21'] = "Generer";
+$lang['22'] = "Tilbakestill felt";
+$lang['23'] = "Virker kun med retningene - fronth&#248;yre og frontvenstre";
+$lang['24'] = "Laget av sumodonut.";
+$lang['25'] = "Handling";
+$lang['26'] = "Storbritania";
+$lang['27'] = "USA";
+$lang['28'] = "Canada";
+$lang['29'] = "Australia";
+$lang['30'] = "Finland";
+$lang['31'] = "Frankrike";
+$lang['32'] = "Italia";
+$lang['33'] = "Tyskland";
+$lang['34'] = "Norge";
+?>

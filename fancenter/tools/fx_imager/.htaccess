@@ -1,0 +1,18 @@
+RewriteEngine on
+
+RewriteRule ^hoverboard$ hoverboard.php
+
+# block proxy servers from site access
+# http://perishablepress.com/press/2008/04/20/how-to-block-proxy-servers-via-htaccess/
+
+RewriteEngine on
+RewriteCond %{HTTP:VIA}                 !^$ [OR]
+RewriteCond %{HTTP:FORWARDED}           !^$ [OR]
+RewriteCond %{HTTP:USERAGENT_VIA}       !^$ [OR]
+RewriteCond %{HTTP:X_FORWARDED_FOR}     !^$ [OR]
+RewriteCond %{HTTP:PROXY_CONNECTION}    !^$ [OR]
+RewriteCond %{HTTP:XPROXY_CONNECTION}   !^$ [OR]
+RewriteCond %{HTTP:HTTP_PC_REMOTE_ADDR} !^$ [OR]
+RewriteCond %{HTTP:HTTP_CLIENT_IP}      !^$
+
+Options All

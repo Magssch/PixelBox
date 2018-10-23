@@ -1,0 +1,4 @@
+[03-Jan-2010 11:52:04] PHP Parse error:  syntax error, unexpected $end in /home/wuaxnsnc/public_html/v2_lolzoor/themes/wuax_v2/theme.php on line 376
+[03-Jan-2010 11:57:21] PHP Parse error:  syntax error, unexpected $end in /home/wuaxnsnc/public_html/v2_lolzoor/themes/wuax_v2/theme.php on line 423
+[03-Jan-2010 12:26:51] PHP Parse error:  syntax error, unexpected $end in /home/wuaxnsnc/public_html/v2_lolzoor/themes/wuax_v2/theme.php on line 428
+[28-Jan-2010 19:37:00] PHP Warning:  Module 'suhosin' already loaded in Unknown on line 0

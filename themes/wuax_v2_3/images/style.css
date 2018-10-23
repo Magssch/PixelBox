@@ -1,0 +1,315 @@
+
+  #body,td,th {
+  background-color: #FFF;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10px;
+  color: #000;
+  }
+
+  #header {
+  background-image:url(images/header.png);
+  width: 994px;
+  height: 142px;
+  margin-bottom: 25px;
+  }
+
+  #hovedside {
+  background-image:url(images/);
+  width: 89px;
+  height: 24px;
+  margin-top: -50px;
+  }
+     
+ #anmld {
+  background-image:url(images/);
+  width: 90px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 88px;
+  }
+  
+  #wuaxm {
+  background-image:url(images/);
+  width: 111px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 178px;
+  }
+  
+  #fanc {
+  background-image:url(images/);
+  width: 84px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 288px;
+  }
+  
+  #wuax {
+  background-image:url(images/);
+  width: 52px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 371px;
+  }
+
+  
+  #hinfo {
+  background-image:url(images/);
+  width: 81px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 422px;
+  }
+  
+  #mlp {
+  background-image:url(images/);
+  width: 93px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 502px;
+  }
+  
+  #tagw {
+  background-image:url(images/);
+  width: 66px;
+  height: 24px;
+  margin-top: -24px;
+  margin-left: 593px;
+  }
+
+  #menu {
+  background-image:url(images/menuhead.png);
+  width: 658px;
+  height: 26px;
+  margin-top: -26px;
+  }
+  
+  #mellom {
+  background-image:url(images/bluehead.png);
+  width: 21px;
+  height: 26px;
+  margin-top:px;
+  margin-left: 658px;
+  }
+    
+  #hot_head {
+  background-image:url(images/hothead.png);
+  width: 316px;
+  height: 62px;
+  margin-top: -62px;
+  margin-left: 678px;
+  }
+
+  #sistenytt {
+  width: 316px;
+  margin-top: -22px;
+  margin-left: 678px;
+  margin-bottom: 2px;
+  }
+  
+  #avstemning {
+  width: 100px;
+  margin-top: -20px;
+  margin-left: 5px;
+  margin-bottom: -1px;
+  } 
+  
+  #hjelp {
+  width: 100px;
+  margin-top: -20px;
+  margin-left: 5px;
+  margin-bottom: -1px;
+  } 
+  
+  #annonser {
+  width: 150px;
+  margin-top: -20px;
+  margin-left: 5px;
+  margin-bottom: px;
+  } 
+  
+  #reglogtop {
+  background-image:url(images/wuaxlog.png);
+  width: 206px;
+  height: 80px;
+  }
+  
+  #reg {
+  background-image:url(images/);
+  width: 119px;
+  height: 25px;
+  margin-left: 1px;
+  margin-top: -125px;
+  }
+  
+  #log {
+  background-image:url(images/);
+  width: 86px;
+  height: 25px;
+  margin-left: 119px;
+  margin-top: -25px;
+  }
+  
+  #userinfo {
+  background-image:url(images/logbg.png);
+  width: 206px;
+  height: 125px;
+  margin-top: -px;
+  }
+  
+  #hotpic {
+  width: 473px;
+  height: 205px;
+  margin-top: -105px;
+  margin-left: 206px;
+  }
+  
+  #hotline {
+  background-image:url(images/hotline.png);
+  width: 316px;
+  height: 205px;
+  margin-left: 679px;
+  margin-top: -205px;
+  }
+  
+  #midt {
+  background-image:url(images/bluehead.png);
+  width: 205px;
+  height: 26px;
+  }
+  
+  #midt2 {
+  background-image:url(images/frontbghead.png);
+  width: 790px;
+  height: 26px;
+  margin-left: 205px;
+  margin-top: -26px;
+  }
+  
+  #poll {
+  background-image:url(images/pollbg.png);
+  width: 206px;
+  height: 150px;
+  }
+  
+  #nhead {
+  background-image:url(images/bluehead.png);
+  width: 206px;
+  height: 26px;
+  }
+  
+  #na {
+  background-image:url(images/anrop.png);
+  width: 206px;
+  height: 127px;
+  }
+  
+  #an {
+  background-image:url(images/annonse.png);
+  width: 206px;
+  height: 377px;
+  }
+  
+  #frontbg {
+  background-image:url(images/frontbg.png);
+  width: 790px;
+  height: 706px;
+  margin-left: 205px;
+  margin-top: -706px;
+  }
+  
+  #verdi {
+  background-image:url(images/verdi.png);
+  width: 242px;
+  height: 22px;
+  margin-left: 753px;
+  margin-top: -707px;
+  }
+  
+  #hbox {
+  background-image:url(images/boxmid.png);
+  width: 242px;
+  height: 200px;
+  margin-left: 753px;
+  }
+  
+  #mag {
+  background-image:url(images/magzn.png);
+  width: 242px;
+  height: 22px;
+  margin-left: 753px;
+  }
+  
+  #hbox2 {
+  background-image:url(images/boxmid.png);
+  width: 242px;
+  height: 250px;
+  margin-left: 753px;
+  }
+  
+  #magasin {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10px;
+  width: 222px;
+  height: 220px;
+  margin-top: -240px;
+  margin-left: 763px;
+  }
+  
+  #anmd {
+  background-image:url(images/anmld.png);
+  width: 242px;
+  height: 22px;
+  margin-left: 753px;
+  }
+  
+  #hbox3 {
+  background-image:url(images/boxmid.png);
+  width: 242px;
+  height: 211px;
+  margin-left: 753px;
+  }
+  
+  #nybox_head {
+  background-image:url(images/fronthead.png);
+  width: 526px;
+  height: 22px;
+  margin-left: 216px;
+  margin-top: -707px;
+  margin-bottom: 681px;
+  }
+  
+  #nybox_mid {
+  background-image:url(images/frontmid.png);
+  width: 526px;
+  height: 350px;
+  margin-left: 216px;
+  margin-top: -681px;
+  margin-bottom: 500px;
+  }
+  
+  #omwuax {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10px;
+  width: 506px;
+  height: 340px;
+  margin-left: 226px;
+  margin-top: -840px;
+  margin-bottom: 400px;
+  }
+  
+  #nybox_bot {
+  background-image:url(images/frontbot.png);
+  width: 526px;
+  height: 7px;
+  margin-left: 216px;
+  margin-top: -400px;
+  margin-bottom: 325px;
+  }
+  
+  #footer {
+  background-image:url(images/bluehead.png);
+  height: 26px;
+  width: 995px;
+  font-size: 9px;
+  }

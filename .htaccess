@@ -1,0 +1,75 @@
+AddHandler application/x-httpd-php56 .php
+
+RewriteEngine on
+RewriteRule ^index$ index.php
+RewriteRule ^beta$ beta.php
+RewriteRule ^blog$ blog.php
+RewriteRule ^rss$ rss.rss
+RewriteRule ^encrypt$ encrypt.php
+RewriteRule ^forgot$ forgot.php
+RewriteRule ^habboinfo$ habboinfo.php
+RewriteRule ^marketplace$ marketplace.php
+RewriteRule ^help$ help.php
+RewriteRule ^chat$ chat.php
+RewriteRule ^shop$ shop.php
+RewriteRule ^out$ out.php
+RewriteRule ^RSS$ rss.php
+RewriteRule ^login$ login.php
+RewriteRule ^logout$ logout.php
+RewriteRule ^main$ main.php
+RewriteRule ^articles$ articles.php
+RewriteRule ^media$ media.php
+RewriteRule ^magazine$ magazine.php
+RewriteRule ^maintenance$ maintenance.php
+RewriteRule ^members$ members.php
+RewriteRule ^news$ news.php
+RewriteRule ^forum$ forum.php
+RewriteRule ^christmas$ christmas.php
+RewriteRule ^adventcalendar$ adventcalendar.php
+RewriteRule ^showroom$ showroom.php
+RewriteRule ^page$ page.php
+RewriteRule ^post$ post.php
+RewriteRule ^register$ register.php
+RewriteRule ^radio$ radio.php
+RewriteRule ^badgescanner$ badgescanner.php
+RewriteRule ^idscanner$ idscanner.php
+RewriteRule ^translator$ translator.php
+RewriteRule ^friendscanner$ friendscanner.php
+RewriteRule ^onlinemods$ onlinemods.php
+RewriteRule ^review$ review.php
+RewriteRule ^site$ site.php
+RewriteRule ^upload$ upload.php
+RewriteRule ^community$ community.php
+RewriteRule ^userpanel$ userpanel.php
+RewriteRule ^values$ values.php
+RewriteRule ^adminpanel$ adminpanel.php
+RewriteRule ^center$ center.php
+RewriteRule ^tagwall$ tagwall.php
+RewriteRule ^news$ news.php
+RewriteRule ^profile$ profile.php
+
+RewriteRule ^profile/(.*)/id$ profile.php?id=$1
+RewriteRule ^profile/(.*)$ profile.php?user=$1
+
+# RewriteRule ^profile?id=(.*)$ profile.php?id=$1
+# RewriteRule ^profile?name=(.*)$ profile.php?name=$1
+# RewriteRule ^news?id=(.*)$ news.php?id=$1
+# RewriteRule ^center?id=(.*)$ news.php?id=$1
+
+
+# block proxy servers from site access
+# http://perishablepress.com/press/2008/04/20/how-to-block-proxy-servers-via-htaccess/
+
+RewriteEngine on
+RewriteCond %{HTTP:VIA}                 !^$ [OR]
+RewriteCond %{HTTP:FORWARDED}           !^$ [OR]
+RewriteCond %{HTTP:USERAGENT_VIA}       !^$ [OR]
+RewriteCond %{HTTP:X_FORWARDED_FOR}     !^$ [OR]
+RewriteCond %{HTTP:PROXY_CONNECTION}    !^$ [OR]
+RewriteCond %{HTTP:XPROXY_CONNECTION}   !^$ [OR]
+RewriteCond %{HTTP:HTTP_PC_REMOTE_ADDR} !^$ [OR]
+RewriteCond %{HTTP:HTTP_CLIENT_IP}      !^$
+
+Options All
+
+SetEnv TZ Europe/Amsterdam

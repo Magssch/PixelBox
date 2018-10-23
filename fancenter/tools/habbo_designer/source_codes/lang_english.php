@@ -1,0 +1,36 @@
+<?php
+$lang['1'] = "Image url";
+$lang['2'] = "Habbo not found";
+$lang['3'] = "Habboname";
+$lang['4'] = "Country";
+$lang['5'] = "Body direction";
+$lang['6'] = "Head direction";
+$lang['7'] = "Gesture";
+$lang['8'] = "Normal";
+$lang['9'] = "Smile";
+$lang['10'] = "Sad";
+$lang['11'] = "Angry";
+$lang['12'] = "Talk";
+$lang['13'] = "Shocked";
+$lang['14'] = "Walk";
+$lang['15'] = "Sit";
+$lang['16'] = "Wave";
+$lang['17'] = "Lie";
+$lang['18'] = "Size";
+$lang['19'] = "Big";
+$lang['20'] = "Small";
+$lang['21'] = "Generate";
+$lang['22'] = "Reset fields";
+$lang['23'] = "Only works with directions - frontleft and frontright";
+$lang['24'] = "Created by sumodonut of habbo.no. feel free to remove this";
+$lang['25'] = "Action";
+$lang['26'] = "United Kingdom";
+$lang['27'] = "USA";
+$lang['28'] = "Canada";
+$lang['29'] = "Australia";
+$lang['30'] = "Finland";
+$lang['31'] = "France";
+$lang['32'] = "Italy";
+$lang['33'] = "Germany";
+$lang['34'] = "Norway";
+?>
